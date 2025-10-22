@@ -1,10 +1,5 @@
-# AS139242 (CSL-AP)
-# Cloudflare Sydney, LLC
-#
-# AS209242 (CLOUDFLARESPECTRUM)
-#
+# Cloudflare LLC, Real person verification
 
-# Cloudflare London, LLC
 DOMAIN,challenges.cloudflare.com
 DOMAIN,a.nel.cloudflare.com
 DOMAIN,cdnjs.cloudflare.com
