@@ -1,5 +1,4 @@
+# YouTube API
 
-# GoogleAPI
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,---sn-
+DOMAIN-SUFFIX,youtubei.googleapis.com
