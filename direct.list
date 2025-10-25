@@ -1,5 +1,5 @@
 # Cloudflare LLC, Real person verification
 
-DOMAIN,challenges.cloudflare.com
-DOMAIN,a.nel.cloudflare.com
-DOMAIN,cdnjs.cloudflare.com
+#DOMAIN,challenges.cloudflare.com
+#DOMAIN,a.nel.cloudflare.com
+#DOMAIN,cdnjs.cloudflare.com
