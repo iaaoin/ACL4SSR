@@ -4,3 +4,232 @@
 DOMAIN,challenges.cloudflare.com
 DOMAIN,a.nel.cloudflare.com
 DOMAIN,cdnjs.cloudflare.com
+
+! Title: AdGuardHome白名单
+! Version: 202407191352
+! Homepage: https://github.com/mphin/adguardhome_rules
+! Total lines: 137
+! Note: 本规则相对于广告隐私保护更注重功能性、便捷性和效率。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
+
+! ================= 搜狐 =================
+DOMAIN-SUFFIX,api.tv.sohu.com
+DOMAIN-SUFFIX,track.sohu.com
+DOMAIN-SUFFIX,yule.sohu.com
+! ================= 搜狐视频 =================
+! 拦截该域名Safari无法播放视频
+DOMAIN-SUFFIX,data.vod.itc.cn
+! ================= MASN中国 =================
+DOMAIN-SUFFIX,g.live.com
+! ================= 东方财富网 =================
+DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,mobappconfig.securities.eastmoney.com
+! ================= 中关村在线 =================
+DOMAIN-SUFFIX,direct.wap.zol.com.cn
+! ================= 新浪 =================
+DOMAIN-SUFFIX,iask.cn
+DOMAIN-SUFFIX,iask.com.cn
+DOMAIN-SUFFIX,mix.sina.com.cn
+! ================= 东方头条 =================
+DOMAIN-SUFFIX,dftoutiao.com
+! ================= 米读小说 =================
+DOMAIN-SUFFIX,apiwz.midukanshu.com
+! ================= 优酷 =================
+! 电脑端提示广告加载失败，易产生歧义，实际在有效倒计时
+DOMAIN-SUFFIX,vali-g1.cp31.ott.cibntv.net
+! ================= UC短视频 =================
+DOMAIN-SUFFIX,huichuan-mc.sm.cn
+DOMAIN-SUFFIX,huichuan.sm.cn
+DOMAIN-SUFFIX,vps.uc.cn
+! ================= UC直播 =================
+DOMAIN-SUFFIX,ulive-interact.uc.cn
+DOMAIN-SUFFIX,ulive-sc.uc.cn
+DOMAIN-SUFFIX,v.uc.cn
+! ================= 字节跳动 =================
+DOMAIN-SUFFIX,haohuo.snssdk.com
+! ================= 抖音 =================
+! 抖音实名认证校验页面
+DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com
+! ================= 番茄畅听 =================
+! 反馈帮助页面
+DOMAIN-SUFFIX,ic.snssdk.com
+! ================= 快手 =================
+DOMAIN-SUFFIX,api.kwaizt.com
+! 送礼使用规则
+DOMAIN-SUFFIX,w1.kskwai.com
+! ================= 斗鱼 =================
+DOMAIN-SUFFIX,gift.douyucdn.cn
+DOMAIN-SUFFIX,msg.douyu.com
+! ================= 爱奇艺 =================
+DOMAIN-SUFFIX,act.vip.iqiyi.com
+DOMAIN-SUFFIX,msg.video.qiyi.com
+DOMAIN-SUFFIX,subscription.iqiyi.com
+! ================= 哔哩哔哩 =================
+DOMAIN-SUFFIX,data.bilibili.com
+DOMAIN-SUFFIX,live-trace.bilibili.com
+! ================= 酷狗音乐 =================
+DOMAIN-SUFFIX,mobilelog.kugou.com
+! ================= 短剧 =================
+DOMAIN-SUFFIX,1sapp.com
+! ================= 优米电视 =================
+DOMAIN-SUFFIX,umiwi.com
+! ================= xlivesex =================
+DOMAIN-SUFFIX,xlivesex.com
+! ================= xhamsterlive =================
+DOMAIN-SUFFIX,hpyrdr.com
+! ================= 苹果 =================
+DOMAIN-SUFFIX,stats.gc.apple.com
+! ================= 小米 =================
+DOMAIN-SUFFIX,resolver.msg.xiaomi.net
+! ================= 腾讯 =================
+DOMAIN-SUFFIX,l.qq.com
+DOMAIN-SUFFIX,yunjiasu.com
+! ================= 应用宝 =================
+DOMAIN-SUFFIX,sqdd.myapp.com
+! ================= 微信 =================
+DOMAIN-SUFFIX,szlong.weixin.qq.com
+! ================= 手机QQ =================
+! 查找好友加载页面
+DOMAIN-SUFFIX,rdelivery.qq.com
+! ================= 腾讯视频 =================
+DOMAIN-SUFFIX,soup.v.qq.com
+! ================= 360 =================
+DOMAIN-SUFFIX,h5.mse.360.cn
+DOMAIN-SUFFIX,jspassport.ssl.qhimg.com
+DOMAIN-SUFFIX,qhres2.com
+DOMAIN-SUFFIX,se.360.cn
+! ================= 微软 =================
+DOMAIN-SUFFIX,click.linksynergy.com
+! ================= 百度 =================
+DOMAIN-SUFFIX,boxer.baidu.com
+DOMAIN-SUFFIX,fc3tn.baidu.com
+DOMAIN-SUFFIX,fc5tn.baidu.com
+DOMAIN-SUFFIX,feed-image.baidu.com
+DOMAIN-SUFFIX,fexclick.baidu.com
+DOMAIN-SUFFIX,gsp0.baidu.com
+DOMAIN-SUFFIX,issuecdn.baidupcs.com
+DOMAIN-SUFFIX,ms.bdimg.com
+DOMAIN-SUFFIX,sofire.baidu.com
+DOMAIN-SUFFIX,wan.baidu.com
+! 大牌餐饮
+DOMAIN-SUFFIX,sjh.baidu.com
+! ================= 百度手机输入法 =================
+! 云联想
+DOMAIN-SUFFIX,udpolimenew.baidu.com
+! 灵感语录同步
+DOMAIN-SUFFIX,mime.baidu.com
+! ================= 搜狗手机输入法 =================
+DOMAIN-SUFFIX,shouji.sogou.com
+! ================= 阿里巴巴 =================
+DOMAIN-SUFFIX,dcms.1688.com
+DOMAIN-SUFFIX,gm.mmstat.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,wgo.mmstat.com
+DOMAIN-SUFFIX,zconfig.alibabausercontent.com
+! ================= 淘宝 =================
+DOMAIN-SUFFIX,amdc.m.taobao.com
+DOMAIN-SUFFIX,click.mz.simba.taobao.com
+DOMAIN-SUFFIX,eco.taobao.com
+DOMAIN-SUFFIX,err.taobao.com
+DOMAIN-SUFFIX,s.click.taobao.com
+! 第三方授权一键绑定
+DOMAIN-SUFFIX,tunion-api.m.taobao.com
+! ================= 京东 =================
+DOMAIN-SUFFIX,orbit.jd.com
+DOMAIN-SUFFIX,wl.jd.com
+! ================= 网易 =================
+DOMAIN-SUFFIX,api.iplay.163.com
+! ================= 网易云音乐 =================
+! 云贝签到
+DOMAIN-SUFFIX,ac.dun.163yun.com
+! 谷歌
+! ================= 网易云音乐 =================
+DOMAIN-SUFFIX,csi.gstatic.com
+DOMAIN-SUFFIX,googleadservices.com
+! ================= 蜗牛 =================
+DOMAIN-SUFFIX,woniu.com
+! ================= 千橡 =================
+DOMAIN-SUFFIX,imop.com
+! ================= 3975游戏 =================
+DOMAIN-SUFFIX,3975.com
+! ================= 模拟城市 =================
+DOMAIN-SUFFIX,live.simcitybuildit.com
+! ================= 巨人网络 =================
+DOMAIN-SUFFIX,ztgame.com
+! ================= 原神 =================
+DOMAIN-SUFFIX,log-upload.mihoyo.com
+! ================= APP工具 =================
+DOMAIN-SUFFIX,ereg.wip3.adobe.com
+DOMAIN-SUFFIX,similarweb.com
+! ================= UC浏览器 =================
+DOMAIN-SUFFIX,ucweb.com
+! ================= 下载 =================
+DOMAIN-SUFFIX,duote.com
+! ================= 迅雷 =================
+DOMAIN-SUFFIX,api-shoulei-ssl.xunlei.com
+! ================= 查询 =================
+! MAC地址查询
+DOMAIN-SUFFIX,7x24s.com
+! ================= 天气预报 =================
+DOMAIN-SUFFIX,e.weather.com.cn
+! ================= 老毛桃PE工具 =================
+DOMAIN-SUFFIX,laomaotao.net
+! ================= 域名注册 =================
+DOMAIN-SUFFIX,bluehost.com
+DOMAIN-SUFFIX,ename.com.cn
+DOMAIN-SUFFIX,ename.net
+DOMAIN-SUFFIX,hosting24.com
+! ================= Raidrive =================
+! 2023.9.90版本，拦截该广告域名频繁弹窗Unknown及ConnectionAborted错误
+! ads.raidrive.com
+! ================= 电视盒子 =================
+! 电视盒子下载，cnhezi.niuaniua.com
+DOMAIN-SUFFIX,niuaniua.com
+! ================= 美团 =================
+! 拦截该域名提示网络错误，无法打开消息列表设置
+DOMAIN-SUFFIX,pubmsg.meituan.com
+! ================= 饿了么 =================
+DOMAIN-SUFFIX,ipassport.ele.me
+! ================= 中国电信 =================
+! 天翼账号本机号码免注册一键登录
+DOMAIN-SUFFIX,id6.me
+! ================= 建设银行 =================
+DOMAIN-SUFFIX,adv.ccb.com
+! ================= 深圳通 =================
+DOMAIN-SUFFIX,ecard.shenzhentong.com
+! ================= 百姓网 =================
+DOMAIN-SUFFIX,baixing.com
+! ================= 新疆网上税务局 =================
+DOMAIN-SUFFIX,xj-n-tax.gov.cn
+! ================= 百事公司大中华区 =================
+DOMAIN-SUFFIX,pepsico.com.cn
+! ================= 其它 =================
+DOMAIN-SUFFIX,auditude.com
+DOMAIN-SUFFIX,bitsumactivationserver.com
+DOMAIN-SUFFIX,c.evidon.com
+DOMAIN-SUFFIX,clarins.com.cn
+DOMAIN-SUFFIX,d1z2jf7jlzjs58.cloudfront.net
+DOMAIN-SUFFIX,d2na2p72vtqyok.cloudfront.net
+DOMAIN-SUFFIX,da.mmarket.com
+DOMAIN-SUFFIX,duiba.com.cn
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,hsforms.net
+DOMAIN-SUFFIX,jiathis.com
+DOMAIN-SUFFIX,jimdo.com
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,knet.cn
+DOMAIN-SUFFIX,lc-cn-n1-shared.com
+DOMAIN-SUFFIX,livere.com
+DOMAIN-SUFFIX,profile.csdnimg.cn
+DOMAIN-SUFFIX,s0.2mdn.net
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,tagtic.cn
+DOMAIN-SUFFIX,w8.com.cn
+DOMAIN-SUFFIX,widget.gleamjs.io
+DOMAIN-SUFFIX,wmflabs.org
+DOMAIN-SUFFIX,wxapp.lvyadx.cn
+DOMAIN-SUFFIX,x6img.com
+DOMAIN-SUFFIX,xifuquan.com
+DOMAIN-SUFFIX,zazhipu.com
+! ================= 同盾 =================
+DOMAIN-SUFFIX,fp.tongdun.net
+DOMAIN-SUFFIX,fraudmetrix.cn
