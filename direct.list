@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,cdnjs.cloudflare.com
 ＃Oracle
 DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,consent.truste.com
+DOMAIN-SUFFIX,consent.trustarc.com
 
 ! Title: AdGuardHome白名单
 ! Version: 202407191352
