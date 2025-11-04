@@ -1,9 +1,6 @@
 DST-PORT,853
-IN-PORT,853
-DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,mbsug.ssl.so.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,playables.usercontent.goog
 DOMAIN-SUFFIX,ad.doubleclick.net
-DOMAIN-SUFFIX,pagead2.googlesyndication.com
 DOMAIN-SUFFIX,tpc.googlesyndication.com
