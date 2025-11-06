@@ -1,4 +1,4 @@
-IP-CIDR6,2605:340::/32
+PROCESS-NAME-REGEX,(?i)article
 
 #Cloudflare LLC, Real person verification
 
