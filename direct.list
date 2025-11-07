@@ -207,7 +207,7 @@ DOMAIN-SUFFIX,xj-n-tax.gov.cn
 ! ================= 百事公司大中华区 =================
 DOMAIN-SUFFIX,pepsico.com.cn
 ! ================= 其它 =================
-DOMAIN-SUFFIX,auditude.com
+#DOMAIN-SUFFIX,auditude.com
 DOMAIN-SUFFIX,bitsumactivationserver.com
 DOMAIN-SUFFIX,c.evidon.com
 DOMAIN-SUFFIX,clarins.com.cn
@@ -215,10 +215,10 @@ DOMAIN-SUFFIX,d1z2jf7jlzjs58.cloudfront.net
 DOMAIN-SUFFIX,d2na2p72vtqyok.cloudfront.net
 DOMAIN-SUFFIX,da.mmarket.com
 DOMAIN-SUFFIX,duiba.com.cn
-DOMAIN-SUFFIX,gvt2.com
+#DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,hsforms.net
 DOMAIN-SUFFIX,jiathis.com
-DOMAIN-SUFFIX,jimdo.com
+#DOMAIN-SUFFIX,jimdo.com
 DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,knet.cn
 DOMAIN-SUFFIX,lc-cn-n1-shared.com
