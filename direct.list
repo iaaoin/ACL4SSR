@@ -3,6 +3,7 @@
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,a.nel.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
+DOMAIN-SUFFIX,static.cloudflareinsights.com
 
 ＃Oracle
 DOMAIN-KEYWORD,oracle
