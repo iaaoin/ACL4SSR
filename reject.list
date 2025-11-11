@@ -5,22 +5,19 @@
 #贝利自动点击器
 PROCESS-NAME-REGEX,(?i)autoclick
 
-# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
-
+#
 DOMAIN-SUFFIX,rashcolonizeexpand.com
 DOMAIN-SUFFIX,preferencenail.com
 DOMAIN-SUFFIX,tx-kmpaudio.pull.yximgs.com
 DOMAIN-SUFFIX,winterbedroomauction.com
-DOMAIN-SUFFIX,s10.histats.com
-DOMAIN-SUFFIX,open.e.kuaishou.cn
-DOMAIN-SUFFIX,toblog.ctobsnssdk.com
-DOMAIN-SUFFIX,mum.alibabachengdun.com
-DOMAIN-SUFFIX,audid-api.taobao.com
-DOMAIN-SUFFIX,s.yimg.com
+DOMAIN-SUFFIX,weirdopt.com
+DOMAIN-SUFFIX,professionaltrafficmonitor.com
 DOMAIN-SUFFIX,adx.ad-survey.com
 DOMAIN-SUFFIX,miaunshorn.com
 DOMAIN-SUFFIX,smallbruisedfollowing.com
 DOMAIN-SUFFIX,tatusiaunpaste.com
+
+# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
 # 广告关键词
 DOMAIN-KEYWORD,admarvel
