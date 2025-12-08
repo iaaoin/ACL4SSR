@@ -3,7 +3,7 @@
 ;DOMAIN-SUFFIX,hw-v2-web-player-tracker.biliapi.net
 
 #贝利自动点击器
-PROCESS-NAME-REGEX,(?i)autoclick
+#PROCESS-NAME-REGEX,(?i)autoclick
 
 #
 DOMAIN-SUFFIX,adx.ad-survey.com
