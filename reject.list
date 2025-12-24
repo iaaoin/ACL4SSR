@@ -1,6 +1,6 @@
 ＃ webRTC 相关
-;DOMAIN-KEYWORD,stun
-;DOMAIN-SUFFIX,hw-v2-web-player-tracker.biliapi.net
+#DOMAIN-KEYWORD,stun
+#DOMAIN-SUFFIX,hw-v2-web-player-tracker.biliapi.net
 
 #贝利自动点击器
 #PROCESS-NAME-REGEX,(?i)autoclick
@@ -9,6 +9,10 @@
 DOMAIN-SUFFIX,adx.ad-survey.com
 DOMAIN-SUFFIX,miaunshorn.com
 DOMAIN-SUFFIX,tatusiaunpaste.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,eluateejectee.com
+DOMAIN-SUFFIX,torealiukzemydr.org
+DOMAIN-SUFFIX,screenshots.downloadtorrentfile.com
 
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
