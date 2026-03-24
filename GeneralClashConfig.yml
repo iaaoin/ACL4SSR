@@ -11,7 +11,7 @@ tcp-concurrent: true
 # interface-name: enp6s18
 log-level: info
 external-controller: 0.0.0.0:9090
-find-process-mode: 'always'
+find-process-mode: always
 global-client-fingerprint: chrome
 keep-alive-idle: 600
 keep-alive-interval: 15
