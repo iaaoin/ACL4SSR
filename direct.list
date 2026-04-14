@@ -1,16 +1,14 @@
 #Cloudflare LLC, Real person verification
 
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,a.nel.cloudflare.com
-DOMAIN-SUFFIX,cdnjs.cloudflare.com
-DOMAIN-SUFFIX,static.cloudflareinsights.com
+#DOMAIN-SUFFIX,challenges.cloudflare.com
+#DOMAIN-SUFFIX,a.nel.cloudflare.com
+#DOMAIN-SUFFIX,cdnjs.cloudflare.com
+#DOMAIN-SUFFIX,static.cloudflareinsights.com
 
 ＃Oracle
 DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,consent.truste.com
 DOMAIN-SUFFIX,consent.trustarc.com
-DOMAIN-SUFFIX,passport.csdn.net
-DOMAIN-SUFFIX,betsonsport.ru
 
 #
 DOMAIN-SUFFIX,log.dns-dynamic.net
