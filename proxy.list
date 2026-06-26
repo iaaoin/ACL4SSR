@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,api.installer.xiaomi.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,tpc.googlesyndication.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,services.googleapis.cn
