@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,consent.trustarc.com
 DOMAIN-SUFFIX,log.dns-dynamic.net
 DOMAIN-SUFFIX,iaao.dpdns.org
 DOMAIN-SUFFIX,atsver.eu.org
+DOMAIN-SUFFIX,iaaoin.ggff.net
 
 ! Title: AdGuardHome白名单
 ! Version: 202407191352
