@@ -155,7 +155,6 @@ DOMAIN-SUFFIX,ac.dun.163yun.com
 ! 谷歌
 ! ================= 网易云音乐 =================
 DOMAIN-SUFFIX,csi.gstatic.com
-DOMAIN-SUFFIX,googleadservices.com
 ! ================= 蜗牛 =================
 DOMAIN-SUFFIX,woniu.com
 ! ================= 千橡 =================
