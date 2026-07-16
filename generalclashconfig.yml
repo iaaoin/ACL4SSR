@@ -12,6 +12,7 @@ tcp-concurrent: true
 log-level: info
 external-controller: 0.0.0.0:9090
 find-process-mode: always
+health-check.lazy: false
 global-client-fingerprint: chrome
 keep-alive-idle: 600
 keep-alive-interval: 15
