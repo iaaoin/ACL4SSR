@@ -5,7 +5,7 @@
 #贝利自动点击器
 PROCESS-NAME-REGEX,(?i)autoclick
 
-#
+#AD
 DOMAIN-SUFFIX,adx.ad-survey.com
 DOMAIN-SUFFIX,miaunshorn.com
 DOMAIN-SUFFIX,tatusiaunpaste.com
@@ -13,6 +13,11 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,eluateejectee.com
 DOMAIN-SUFFIX,torealiukzemydr.org
 DOMAIN-SUFFIX,screenshots.downloadtorrentfile.com
+
+#ifvod
+DOMAIN-SUFFIX,ppt.iyf.tv
+DOMAIN-SUFFIX,pptstatic.iyf.tv
+DOMAIN-SUFFIX,.api.iyf.tv
 
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
